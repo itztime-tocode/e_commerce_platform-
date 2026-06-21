@@ -1,0 +1,8 @@
+{
+  "name": " LUXORA",
+  "description": "LUXORA (by VV Mart) is a visually premium, elegant, and modern luxury e-commerce platform curated for high-end electronics, watches, fashion, and lifestyle products.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
